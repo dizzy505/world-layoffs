@@ -1,5 +1,6 @@
 🚀 Project Overview
-- This project analyzes global layoffs data across the tech, retail, and finance industries using SQL.
+---------------------
+This project analyzes global layoffs data across the tech, retail, and finance industries using SQL.
 Inspired by Alex The Analyst's tutorials, I expanded the analysis by uncovering deeper insights into time-based layoff surges, most impacted regions, and company-specific patterns.
 
 🛠️ Tech Stack
